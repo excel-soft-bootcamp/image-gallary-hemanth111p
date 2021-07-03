@@ -1,0 +1,7 @@
+C:\Users\hemanth.p\source\repos\example\image\bin\Debug\image.exe.config
+C:\Users\hemanth.p\source\repos\example\image\bin\Debug\image.exe
+C:\Users\hemanth.p\source\repos\example\image\bin\Debug\image.pdb
+C:\Users\hemanth.p\source\repos\example\image\obj\Debug\image.csprojResolveAssemblyReference.cache
+C:\Users\hemanth.p\source\repos\example\image\obj\Debug\image.csproj.CoreCompileInputs.cache
+C:\Users\hemanth.p\source\repos\example\image\obj\Debug\image.exe
+C:\Users\hemanth.p\source\repos\example\image\obj\Debug\image.pdb

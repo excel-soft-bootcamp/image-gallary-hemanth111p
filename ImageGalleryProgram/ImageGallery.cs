@@ -9,14 +9,11 @@ namespace image
     
         public class ImageGallery
         {
-        Isender sender;
-        public ImageGallery(Isender _sender)
-        {
-            this.sender = _sender;
-        }
-            public void Share()
+       
+        
+            public void Share(Isender share)
             {
-                sender.Send();
+            share.Send();
 
             }
         }
